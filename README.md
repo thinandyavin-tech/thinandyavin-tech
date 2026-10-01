@@ -1,4 +1,4 @@
-# Hi, I'm Yavin Songkham (Martin) 👋
+# Hi, I'm Yavin Songkham (Martin) 
 
 AI & automation developer from Chiang Mai, Thailand · Digital Innovation (Computer Science), Chiang Mai University.
 I build practical AI products that run real businesses — chat commerce on LINE, AI market intelligence, and automation bots.
