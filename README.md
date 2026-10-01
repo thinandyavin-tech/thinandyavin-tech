@@ -8,6 +8,8 @@ I build practical AI products that run real businesses — chat commerce on LINE
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [HookLedger](https://github.com/thinandyavin-tech/hookledger) | Durable webhook inbox with HMAC verification, SQLite leases, bounded retries, dead-letter recovery, and an operations dashboard | TypeScript, Node.js 24, SQLite |
+| [Thai Payment Toolkit](https://github.com/thinandyavin-tech/thai-payment-toolkit) | Tested PromptPay EMVCo payload generation, Thai ID normalization, TLV parsing, and CRC validation | Python, pytest |
+| [LINE Shop Bot](https://github.com/thinandyavin-tech/line-shop-bot) | Open-source LINE ordering bot for Thai shops with menu, cart, PromptPay QR, and owner alerts | Python, FastAPI, LINE Messaging API |
 | [InvestMart](https://github.com/thinandyavin-tech/investmart) · [live](https://investmart.vercel.app) | AI market-intelligence platform for US & Thai stocks: AI news impact ratings, daily infographic, and an assistant grounded in live market data | Next.js, TypeScript, Prisma, Groq/Gemini |
 | [Martin Stocks](https://github.com/thinandyavin-tech/martin-stocks) | Discord stock analysis, watchlists, price alerts, and AI news summaries | Python, discord.py, Groq, SQLite |
 | [Tax LINE Bot](https://github.com/thinandyavin-tech/tax-line-bot) | Thai receipt capture with AI OCR, payment tracking, and summaries through LINE | Node.js, Express, Google Sheets, Groq |
