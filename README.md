@@ -1,19 +1,22 @@
-# Hi, I'm Martin
+# Hi, I'm Yavin Songkham (Martin) 👋
 
-I build practical bots and automation tools with Python and JavaScript.
-My projects focus on chat interfaces, market data, and everyday workflows.
+AI & automation developer from Chiang Mai, Thailand · Digital Innovation (Computer Science), Chiang Mai University.
+I build practical AI products that run real businesses — chat commerce on LINE, AI market intelligence, and automation bots.
 
 ## Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [InvestMart](https://github.com/thinandyavin-tech/investmart) · [live](https://investmart.vercel.app) | AI market-intelligence platform for US & Thai stocks: AI news impact ratings, daily infographic, and an assistant grounded in live market data | Next.js, TypeScript, Prisma, Groq/Gemini |
 | [Martin Stocks](https://github.com/thinandyavin-tech/martin-stocks) | Discord stock analysis, watchlists, price alerts, and AI news summaries | Python, discord.py, Groq, SQLite |
-| [Tax LINE Bot](https://github.com/thinandyavin-tech/tax-line-bot) | Thai receipt capture, payment tracking, and summaries through LINE | Node.js, Express, Google Sheets, Groq |
+| [Tax LINE Bot](https://github.com/thinandyavin-tech/tax-line-bot) | Thai receipt capture with AI OCR, payment tracking, and summaries through LINE | Node.js, Express, Google Sheets, Groq |
 | [Bitcoin Trading Bot](https://github.com/thinandyavin-tech/bitcoin-trading-bot) | SMA/RSI strategy experiments with backtesting and dry-run mode | Python, Binance API |
+
+Also built (private, running in production): an AI ordering system on LINE OA with PromptPay payments and slip verification, POS/inventory apps, and a motion-tracking classroom game ([catch-the-word.vercel.app](https://catch-the-word.vercel.app)).
 
 ## How I build
 
-I work iteratively: build something useful, try it, and improve it.
-I use AI coding tools as part of that workflow.
+I work iteratively: build something useful, ship it, get real users on it, and improve it.
+I use AI coding tools heavily as part of that workflow.
 
-Explore the repositories for source code and setup instructions.
+📫 thinandyavin@gmail.com · 🇹🇭 Thai (native) · English C1 (EF SET)
